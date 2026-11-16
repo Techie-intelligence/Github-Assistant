@@ -1,0 +1,12 @@
+agent A
+cycle 20
+
+agent B
+cycle 25
+
+Final: debate - cycle 20
+
+
+.json - final debate output from the agent
+match - Yes - next level
+no match - No - inform as flag
