@@ -8,14 +8,12 @@
 8. Cloud deployment config
 9. Pull request - 4 tests
 
-
 10. Conflict
 	Code changed in the shared file eg:main.py
 	P1: pull the file from origin, create demo/P1, 
 	edit file = "# P1 changed the code", 
 	add the main and update demo/P1 in GitHub
 	pull request, approve, merge - OK
-
 	P2: pull the file from origin, create demo/P2, 
 	edit file = "# P2 changed the code",
 	add the main and update demo/P2 in GitHub
